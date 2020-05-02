@@ -3,6 +3,7 @@ Projeto Aprendizagem Automática 2 - Análise exploratória e aplicação de mod
 
 ## Grupo de Trabalho
 A76516 - João Vieira
+
 A74357 - António Lopes
 
 ## Objetivo
