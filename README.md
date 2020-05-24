@@ -11,8 +11,7 @@ O projeto consiste na análise e exploração dos dados epidemiológicos do Coro
 
 Para além da análise exploratória, o outro objetivo passa por criar e testar diferentes modelos de aprendizagem máquina, nomeadamente modelos de regressão. Com este estudo, pretende-se encontrar o modelo que permita realizar uma melhor predição do número de casos de COVID-19 no Brasil, para os dias seguintes.
 
-## Utilização
-Em termos da utilização, recomenda-se a utilização do IDE *Visual Studio Code* para abrir o *notebook* e executar os exemplos.
+## Notebooks
 
-
-Alternativamente, carregar o *notebook* no <a href="https://colab.research.google.com">**Google Colaboratory**</a> e dar *upload* ao ficheiro de dados. Para executar corretamente, resta alterar a linha de código responsável pela leitura do ficheiro no início, com o devido *path* do ficheiro no *Colaboratory*.
+* [Análise Exploratória](https://github.com/jvieira42/AA2/blob/master/eda.ipynb)
+* [Modelos ML](https://github.com/jvieira42/AA2/blob/master/modelos.ipynb)
