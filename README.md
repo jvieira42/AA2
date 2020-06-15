@@ -14,6 +14,7 @@ Para além da análise exploratória, o outro objetivo passa por criar e testar 
 ## Notebooks
 
 * [Análise Exploratória](https://github.com/jvieira42/AA2/blob/master/eda.ipynb)
-* [Modelos Regressão Linear + SVR](https://github.com/jvieira42/AA2/blob/master/Modelos.ipynb)
+* [Análise Geográfica](https://github.com/jvieira42/AA2/blob/master/geo.ipynb)
+* [Modelos Regressão Linear + SVR](https://github.com/jvieira42/AA2/blob/master/regression.ipynb)
 * [Rede Neuronal MLP](https://github.com/jvieira42/AA2/blob/master/MLP.ipynb)
 
